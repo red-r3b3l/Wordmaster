@@ -491,7 +491,7 @@ def listcreate():
     file.write(winstr+"8\r\n")
     file.close()
     file = open("wordlist_test.txt", "a")
-    file.write(winstr+"9\r\n")1
+    file.write(winstr+"9\r\n")
     file.close()
     file = open("wordlist_test.txt", "a")
     file.write(winstr+"10\r\n")
